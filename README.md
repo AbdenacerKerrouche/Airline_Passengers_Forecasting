@@ -20,6 +20,7 @@ The goal is to model historical passenger demand and generate accurate forecasts
 ```bash
 Images                      # Plots of the time serie in different phases in the AnaLysis
 Passengers_forcating.ipynb   # Exported notebook with full analysis
+airline-passengers.csv      # Data used
 README.md                   # Project documentation
 ```
 
